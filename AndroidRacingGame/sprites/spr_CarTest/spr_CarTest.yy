@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_CarTest",
   "bboxMode":0,
-  "bbox_bottom":63,
+  "bbox_bottom":59,
   "bbox_left":0,
-  "bbox_right":63,
+  "bbox_right":39,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"e5ce5e89-4f6e-465c-ae8d-6ffe6da2f212","name":"e5ce5e89-4f6e-465c-ae8d-6ffe6da2f212","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"48e0dc55-b64c-4d7e-a92a-43f61d46bd74","name":"48e0dc55-b64c-4d7e-a92a-43f61d46bd74","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":60,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"fbb1a54b-beea-41e3-8d5f-d7773d9b3e28","blendMode":0,"displayName":"default","isLocked":false,"name":"fbb1a54b-beea-41e3-8d5f-d7773d9b3e28","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"e5c379a1-5a12-42f8-9735-2eea7718367c","blendMode":0,"displayName":"default","isLocked":false,"name":"e5c379a1-5a12-42f8-9735-2eea7718367c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_CarTest",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e5ce5e89-4f6e-465c-ae8d-6ffe6da2f212","path":"sprites/spr_CarTest/spr_CarTest.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"2058a982-2d37-4d0b-8743-0675499ba74a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"48e0dc55-b64c-4d7e-a92a-43f61d46bd74","path":"sprites/spr_CarTest/spr_CarTest.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"38f140be-2b34-4860-b823-2292d699985d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":40,
 }
