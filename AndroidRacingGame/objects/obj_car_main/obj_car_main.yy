@@ -38,7 +38,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":true,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_CarTest",
+    "path":"sprites/spr_CarTest/spr_CarTest.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
