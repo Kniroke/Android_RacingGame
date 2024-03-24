@@ -1,0 +1,12 @@
+if(obj_btn_gameover.visible=true)
+{
+global.score_numb=0
+obj_car_main.x=global.main_car_x
+obj_car_other_1.y=global.other_car_y1
+obj_car_other_2.y=global.other_car_y2
+obj_car_other_3.y=global.other_car_y3
+obj_btn_gameover.visible=false;
+global.other_car_speed1=1
+global.other_car_speed2=1
+global.other_car_speed3=1
+}

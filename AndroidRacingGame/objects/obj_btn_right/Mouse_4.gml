@@ -1,0 +1,1 @@
+global.player_steer_right=1;
