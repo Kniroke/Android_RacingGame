@@ -8,4 +8,9 @@ global.other_car_y3=-220
 global.main_car_x=96;
 global.player_steer_left=0;
 global.player_steer_right=0;
-audio_play_sound(snd_song1, 0, true);
+
+first_played=true
+second_played=false
+third_played=false
+fourth_played=false
+fifth_played=false
